@@ -3,7 +3,7 @@
 ## Description
 
 Your assignment is to create app which will fetch and display news from The Guardian. You should use their API (https://open-platform.theguardian.com/).
-Use `stylus` preprocessor for styling. Try not to use any external JavaScript and CSS libraries/frameworks.
+Use `stylus` preprocessor for styling. Try not to use any external JavaScript and CSS libraries/frameworks. Keep your solution on Github/Gitlab/Bitbucket and send us link to repo.
 
 ## Requirements
 
